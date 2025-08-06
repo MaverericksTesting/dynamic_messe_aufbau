@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <WiFiUdp.h>
 
-const char* ssid     = "TestNetz";      // ESP32 SSID
-const char* password = "12345678";      // ESP32 Passwort
+const char* ssid     = "Dynamic_Messestand";      // ESP32 SSID
+const char* password = "Star!testing";      // ESP32 Passwort
 
 WiFiUDP udp;
 const char* esp32_ip = "192.168.4.1";   // IP des ESP32 SoftAP

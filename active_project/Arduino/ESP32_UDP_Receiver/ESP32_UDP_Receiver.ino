@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <WiFiUdp.h>
 
-const char* ssid = "TestNetz";
-const char* password = "12345678";
+const char* ssid = "Dynamic_Messestand";
+const char* password = "Star!testing";
 
 WiFiUDP udp;
 const int udpPort = 4210;
